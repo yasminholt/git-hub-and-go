@@ -1,0 +1,36 @@
+header{
+  text-align: center;
+}
+p{
+  color: f07;
+}
+body{
+  background-color: rgba(0, 0, 0, 0.3);
+}
+img{
+  width: 20%
+}
+div h1{
+  color: blue;
+}
+p a{
+  color: red;
+}
+#box1{
+  color: green;
+}
+h3{
+  color: yellow;
+}
+h3#heading3{
+  color: red;
+}
+.item{
+  color: pink;
+}
+*{
+  font-family: phosphate;
+}
+#productlist*{
+  color: white;
+}
